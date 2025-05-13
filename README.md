@@ -101,6 +101,4 @@ def get_ai_response(prompt):
 - Test numbers must be added in Meta for WhatsApp sandbox use.
 - You can upgrade to production after business verification.
 
-## 🪪 License
 
-MIT License. You are free to use, distribute, and modify the project.
